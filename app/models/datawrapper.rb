@@ -1,0 +1,2 @@
+class Datawrapper < ApplicationRecord
+end
